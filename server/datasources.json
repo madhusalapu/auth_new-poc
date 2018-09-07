@@ -2,5 +2,12 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "esv6": {
+    "name": "esv6",
+    "index": "auth",
+    "apiVersion": "6.0",
+    "defaultSize": "",
+    "connector": "esv6"
   }
 }
